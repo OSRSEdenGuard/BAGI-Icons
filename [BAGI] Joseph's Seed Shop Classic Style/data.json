@@ -1,0 +1,10 @@
+{
+    "Fruits": ["Vanilla Bean JSS"],
+    "Vegetables": ["Wild Spinach JSS", "Wild Rice JSS", "Wild Basil JSS", "White Sage JSS", "Twilight Corn JSS", "Sunchoke JSS", "Stardrop Corn JSS", "Spaghetti Squash JSS", "Salmon Corn JSS", "Rye JSS", "Rainbow Corn JSS", "Oats JSS", "Millet JSS", "Ice Blue Corn JSS", "Hopi Red Bean JSS", "Catkin JSS", "Butternut Squash JSS", "Blood Red Corn JSS", "Acorn Squash JSS"],
+    "Flowers": ["Zohar JSS", "White Lite JSS", "Velvet Queen JSS", "Solar Power JSS", "Peredovik JSS", "Jerusalem Gold JSS", "Clover JSS", "Autumn Beauty JSS"],
+    "Honey": "assets/honey.png",
+    "Jelly": "assets/jelly.png",
+    "Juice": "assets/juice.png",
+    "Pickles": "assets/pickles.png",
+    "Wine": "assets/wine.png"
+}

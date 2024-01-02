@@ -1,0 +1,21 @@
+{
+	"Name": "[BAGI] Joseph's Seed Shop Classic Style",
+	"Author": "Eden",
+	"Version": "1.0.0",
+	"Description": "Adds unique artisan good icons for Joseph's Seed Shop Crops.",
+	"UniqueID": "Eden.JosephsBAGI",
+	"UpdateKeys": [],
+	"MinimumApiVersion": "2.11.2",
+	"ContentPackFor":
+		{
+			"UniqueID": "cat.betterartisangoodicons",
+			"MinimumVersion": "1.4.0"
+		},
+	"Dependencies":
+		[
+			{
+				"UniqueID": "Elaho.JosephsSeedShopCropsJA",
+				"IsRequired": false
+			},
+		],
+}

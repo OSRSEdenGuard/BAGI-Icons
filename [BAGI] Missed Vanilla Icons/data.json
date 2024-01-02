@@ -1,0 +1,15 @@
+{
+    "Fruits": [
+		"Qi Fruit"
+	],
+    "Vegetables": null,
+    "Flowers": [
+		"Sunflower",
+		"Sweet Pea"
+	],
+    "Honey": "assets/honey.png",
+    "Jelly": "assets/jelly.png",
+    "Juice": null,
+    "Pickles": null,
+    "Wine": "assets/wine.png"
+}

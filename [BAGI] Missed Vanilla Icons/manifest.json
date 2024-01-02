@@ -1,0 +1,24 @@
+{
+	"Name": "[BAGI] Missed Vanilla produce Classic Style",
+	"Author": "Eden",
+	"Version": "1.0.0",
+	"Description": "Adds unique artisan good icons vanilla produce that were missing.",
+	"UniqueID": "Eden.MissedVanillaBAGI",
+	"UpdateKeys": [],
+	"MinimumApiVersion": "2.11.2",
+	"ContentPackFor":
+		{
+			"UniqueID": "cat.betterartisangoodicons",
+			"MinimumVersion": "1.4.0"
+		},
+	"Dependencies":
+		[
+			{
+				"UniqueID": "MidnightChord.bagifix",
+				"IsRequired": false
+			},
+		],
+}
+
+
+

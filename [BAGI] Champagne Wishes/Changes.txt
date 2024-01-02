@@ -1,0 +1,4 @@
+Changes:
+
+Jelly
+Retextures the lid and jar match the rest of the jellies from BAGI (Vanilla-style).

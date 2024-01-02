@@ -1,0 +1,22 @@
+{
+    "Fruits": [
+		"wf cacaopod", "wf lemon", "wf lime", "wf raspberry",
+		"wf strawberry"
+	],
+    "Vegetables": [
+		"wf almond", "wf basil", "wf carrot", "wf cashew",
+		"wf chickenofthewoods", "wf cilantro", "wf cinnamon", "wf honeyfungus", 
+		"wf meringueshroom", "wf milkshroom", "wf mint", "wf olive",
+		"wf pistachio", "wf redonion", "wf rosemary", "wf sage", 
+		"wf tealeaf", "wf thyme", "wf walnut", "wf wheatshroom"
+		],
+    "Flowers": [
+		"wf chamomile", "wf cherryblossompetals", "wf jasmine", "wf lavender", 
+		"wf mallow", "wf vanilla" 
+		],
+    "Honey": "assets/honey.png",
+    "Jelly": "assets/jelly.png",
+    "Juice": "assets/juice.png",
+    "Pickles": "assets/pickles.png",
+    "Wine": "assets/wine.png"
+}

@@ -1,0 +1,21 @@
+{
+	"Name": "[BAGI] Wild Food BAGI addon Classic Style",
+	"Author": "Eden",
+	"Version": "1.0.0",
+	"Description": "Adds unique artisan good icons for Wild Food crops and produce.",
+	"UniqueID": "Eden.WildFoodBAGI",
+	"UpdateKeys": [],
+	"MinimumApiVersion": "2.11.2",
+	"ContentPackFor":
+		{
+			"UniqueID": "cat.betterartisangoodicons",
+			"MinimumVersion": "1.4.0"
+		},
+	"Dependencies":
+		[
+			{
+				"UniqueID": "wildflour.wildfoodforage",
+				"IsRequired": true
+			},
+		],
+}
